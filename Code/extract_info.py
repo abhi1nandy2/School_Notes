@@ -6,6 +6,9 @@ import sys
 folder = "../Data/Chapter-{}".format(sys.argv[1])
 out_folder = "../Results/Chapter-{}".format(sys.argv[1])
 
+if os.path.exists("../Results") == False:
+	os.mkdir("../Results")
+
 if os.path.exists(out_folder) == False:
 	os.mkdir(out_folder)
 
