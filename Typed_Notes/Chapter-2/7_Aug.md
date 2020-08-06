@@ -4,7 +4,7 @@ A1.
 
 v<sub>m</sub> = 0 + 0.2t (**Recall**: 20cm = 20/100 m = 0.2m)
 
-![img](http://latex.codecogs.com/svg.latex?t+%3D+%5Cfrac%7Bv_m%7D%7B0.2%7D)
+![img](http://latex.codecogs.com/svg.latex?t%3D%5Cfrac%7Bv_m%7D%7B0.2%7D)
 
 ![img](https://latex.codecogs.com/svg.latex?S_1%3D0%2B%5Cfrac%7B1%7D%7B2%7D%280.2%29%28%5Cfrac%7Bv_m%7D%7B0.2%7D%29%5E2%3D%5Cfrac%7B1%7D%7B2%7D%5Cfrac%7BV%5E2_m%7D%7B0.2%7D%3D%5Cfrac%7BV%5E2_m%7D%7B0.4%7D)
 
