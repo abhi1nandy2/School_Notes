@@ -36,4 +36,46 @@ Distance to be travelled = Length of train = 50 m,
 
 Speed of train = 10 m/s
 
-![img](https://latex.codecogs.com/svg.latex?%5Ctherefore), time taken to cross the electric pole = ![img](https://latex.codecogs.com/svg.latex?%5Cfrac%7B50m%7D%7B10m%2Fs%7D%3D%5Cfrac%7B50m%7D%7B10m%7D%7B%5Ctimes%7Ds%3D5s)
+![img](https://latex.codecogs.com/svg.latex?%5Cmathbf%7B%5Ctherefore%7D) time taken to cross the electric pole = 
+![img](https://latex.codecogs.com/svg.latex?%5Cfrac%7B50m%7D%7B10m%2Fs%7D%3D%5Cfrac%7B50m%7D%7B10m%7D%7B%5Ctimes%7Ds%3D5s)
+
+(ii) To cross a bridge/platform/another train, a train has to travel the total length of both
+![img](https://latex.codecogs.com/svg.latex?%5Cmathbf%7B%5Ctherefore%7D) Distance to be travelled by the train
+ = length of train + length of bridge
+
+Length of train = 50m
+Length of bridge = 250m
+Distance to be travelled = 50m + 250m = 300m
+
+![img](https://latex.codecogs.com/svg.latex?%5Cmathbf%7B%5Ctherefore%7D) Time taken to cross the bridge = 
+![img](https://latex.codecogs.com/svg.latex?%5Cfrac%7BDistance%7D%7BSpeed%7D%3D%5Cfrac%7B300m%7D%7B10m%2Fs%7D%3D30s)
+
+
+Q. What is the average speed of a cheetah that sprints 100m in 4sec? What if it sprints 50m in 2sec.
+
+Ans:
+
+Average speed = Total distance/Time taken
+
+Total distance = 100m; time taken = 4sec
+
+![img](https://latex.codecogs.com/svg.latex?%5Cmathbf%7B%5Ctherefore%7D)Average speed of cheetah = 100 meters/4 sec = 25m/s
+
+(ii) If it sprints 50m in 2sec,
+
+Total distance = 50m; Time taken = 2sec
+
+![img](https://latex.codecogs.com/svg.latex?%5Cmathbf%7B%5Ctherefore%7D)Average speed of cheetah = 50 meters/2 sec = 25m/s
+
+
+
+Q. A car travels at a speed of 80km/h during the first half of its running time and at 40km/h during the other half. Find the average speed of the car.
+
+Ans:
+
+Average Speed = (v+u)/2
+
+u, initial speed of the car during the first half = 80km/h
+v, initial speed of the car during the second half = 40km/h
+
+![img](https://latex.codecogs.com/svg.latex?%5Cmathbf%7B%5Ctherefore%7D) Average speed of car = (80+40)/2 km/h = 120/2 km/h = 60km/h
