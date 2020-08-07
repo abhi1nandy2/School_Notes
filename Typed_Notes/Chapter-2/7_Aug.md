@@ -1,6 +1,6 @@
-Q1. Consider a train which can accelerate with an acceleration of 20 cm/s<sup>2</sup> and slow down with deceleration of 100 cm/s<sup>2</sup>. Find the minimum time for the train to travel between the stations 2.7km apart.
+Q. Consider a train which can accelerate with an acceleration of 20 cm/s<sup>2</sup> and slow down with deceleration of 100 cm/s<sup>2</sup>. Find the minimum time for the train to travel between the stations 2.7km apart.
 
-A1. 
+Ans. 
 
 v<sub>m</sub> = 0 + 0.2t (**Recall**: 20cm = 20/100 m = 0.2m)
 
@@ -23,3 +23,17 @@ V<sup>2</sup><sub>m</sub> = 900
 ![img](https://latex.codecogs.com/svg.latex?V_m%3D%5Csqrt%7B900%7D%3D30)
 
 t = 6 x 30 = 180s
+
+Q. A train of length 50m is moving with a constant speed of 10 m/s. Calculate the time taken by the train to cross an electric pole and a bridge of length 250 m.
+
+Ans:
+
+(**Recall:** Time = distance/speed)
+
+**Note:** A train has to travel its own length in order to cross an electric pole, railway signal, a tree, a kilometer stone or stationary man.
+
+Distance to be travelled = Length of train = 50 m,
+
+Speed of train = 10 m/s
+
+![img](https://latex.codecogs.com/svg.latex?%5Ctherefore), time taken to cross the electric pole = ![img](https://latex.codecogs.com/svg.latex?%5Cfrac%7B50m%7D%7B10m%2Fs%7D%3D%5Cfrac%7B50m%7D%7B10m%7D%7B%5Ctimes%7Ds%3D5s)
