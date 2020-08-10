@@ -8,7 +8,7 @@ v<sub>m</sub> = 0 + 0.2t<sub>1</sub> (**Recall**: 20cm = 20/100 m = 0.2m)
 
 ![img](http://latex.codecogs.com/svg.latex?t_1%3D%5Cfrac%7Bv_m%7D%7B0.2%7D)
 
-![img](https://latex.codecogs.com/svg.latex?S_1%3D0%2B%5Cfrac%7B1%7D%7B2%7D%280.2%29%28%5Cfrac%7Bv_m%7D%7B0.2%7D%29%5E2%3D%5Cfrac%7B1%7D%7B2%7D%5Ctimes%5Cfrac%7Bv_m%5E2%7D%7B0.2%7D%3D%5Cfrac%7Bv_m%5E2%7D%7B0.4%7D)
+![img](S_1%3D0%2B%5Cfrac%7B1%7D%7B2%7D%280.2%29%28%5Cfrac%7Bv_m%7D%7B0.2%7D%29%5E2%3D%28%5Cfrac%7B1%7D%7B2%7D%29%28%5Cfrac%7Bv_m%5E2%7D%7B0.2%7D%29%3D%5Cfrac%7Bv_m%5E2%7D%7B0.4%7D)
 
 Similarly 0 = v<sub>m</sub> - (1) t<sub>2</sub> => t<sub>2</sub> = v<sub>m</sub> (**Recall**: 100cm = 1m)
 
