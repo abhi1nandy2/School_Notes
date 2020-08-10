@@ -2,7 +2,9 @@ Q. Consider a train which can accelerate with an acceleration of 20 cm/s<sup>2</
 
 Ans. 
 
-v<sub>m</sub> = 0 + 0.2t (**Recall**: 20cm = 20/100 m = 0.2m)
+Let the time during which the train accelerates be t<sub>1</sub> seconds, and time during which it decelerates be t<sub>2</sub> seconds. Let v<sub>m</sub> be the maximum velocity of the train.
+
+v<sub>m</sub> = 0 + 0.2t<sub>1</sub> (**Recall**: 20cm = 20/100 m = 0.2m)
 
 ![img](http://latex.codecogs.com/svg.latex?t%3D%5Cfrac%7Bv_m%7D%7B0.2%7D)
 
