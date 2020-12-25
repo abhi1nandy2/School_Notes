@@ -1,0 +1,35 @@
+1. Solve
+
+a. One-half of a convex lens is covered with a black paper. Will this lens produce a complete image of the object? Verify your answer experimentally. Explain your observations.
+
+b. An object 5 cm in length is held 25 cm away from a converging lens of focal length 10 cm. Draw the ray diagram and find the position, size and the nature of the image formed.
+
+c. A concave lens of focal length 15 cm forms an image 10 cm from the lens. How far is the object placed from the lens? Draw the ray diagram.
+
+d. An object is placed at a distance of 10 cm from a convex mirror of focal length 15 cm. Find the position and nature of the image.
+
+e. The magnification produced by a plane mirror is +1. What does this mean?
+
+2. Answer the following -
+
+a. Why do stars twinkle?
+b. Why does the sky appear dark instead of blue to an astronaut?
+c. Explain rainbow formation with diagram.
+
+3. Answer the following
+
+a. Why does the cord of an electric heater not glow while the heating element does?
+b. Compute the heat generated while transferring 96000 coulomb of charge in one hour through a potential difference of 50 V.
+c. An electric iron of resistance 20 Ω takes a current of 5 A. Calculate the heat developed in 30 s.
+d. When a 12 V battery is connected across an unknown resistor, there is a current of 2.5 mA in the circuit. Find the value of the resistance of the resistor
+e. A battery of 9 V is connected in series with resistors of 0.2 Ω, 0.3 Ω, 0.4 Ω, 0.5 Ω and 12 Ω, respectively. How much current would flow through the 12 Ω resistor?
+
+4. Explain refraction of light through a prism. Draw diagram.
+
+5. Read the following para and answer the following questions -
+
+Resistance is defined as the property of a conductor to resist the flow of charges through it. The resistance of conductor is numerically given as the ratio of potential difference across its length to the current flowing through it.
+
+a. Resistivity of an alloy is higher than its constituent metals. Where is this property used?
+b. Define resistivity. Write its unit.
+c. Will current flow more quickly through a thick wire or a thin wire of same material. Why?
