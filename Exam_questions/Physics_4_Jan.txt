@@ -1,0 +1,22 @@
+1. Solve
+a. Two lamps, one rated 100 W at 220 V, and the other 60 W at 220 V, are connected in parallel to electric mains supply. What current is drawn from the line if the supply voltage is 220 V?
+b. Which uses more energy, a 250 W TV set in 1 hr, or a 1200 W toaster in 10 minutes?
+c. An electric heater of resistance 8 Ω draws 15 A from the service mains 2 hours. Calculate the rate at which heat is developed in the heater.
+
+2. Explain the following.
+
+a. Why is the tungsten used almost exclusively for filament of electric lamps?
+b. Why are the conductors of electric heating devices, such as bread-toasters and electric irons, made of an alloy rather than a pure metal?
+c. Why is the series arrangement not used for domestic circuits?
+d. How does the resistance of a wire vary with its area of cross-section?
+
+3. Explain
+a. How does a solenoid behave like a magnet? Can you determine the north and south poles of a current–carrying solenoid with the help of a bar magnet? Explain.
+b. When is the force experienced by a current–carrying conductor placed in a magnetic field largest?
+c. Two circular coils A and B are placed closed to each other. If the current in the coil A is changed, will some current be induced in the coil B? Give reason.
+d. List two methods of producing magnetic fields.
+
+4. Solve
+a. Compute the heat generated while transferring 96000 coulomb of charge in one hour through a potential difference of 50 V
+b. An electric iron of resistance 20 Ω takes a current of 5 A. Calculate the heat developed in 30 s.
+c. Electric lamp of resistance 20 ohms and a conductor of 4 ohms resistance are connected to a 6 volt battery. Calculate total resistance, current, and potential difference across electrical lamp and conductor.
